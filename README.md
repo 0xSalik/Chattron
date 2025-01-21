@@ -55,7 +55,7 @@ Forget generic analytics. Chattron focuses on **personalization and engagement**
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/chattron.git
+    git clone https://github.com/0xSalik/Chattron.git
     cd chattron
     ```
 
